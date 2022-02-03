@@ -1,0 +1,11 @@
+{"records":[
+    {"name":"Rithu Manel","Parking_type":"2-wheeler","Date1":"17-10-2021","parking_time":"09:50:00","ending_time":"09:58:13","Parking_charge":100},
+    
+    {"name":"Ramu","Parking_type":"4-wheeler","Date1":"18-10-2021","parking_time":"09:50:00","ending_time":"07:34:00","Parking_charge":150},
+    {"name":"Raju","Parking_type":"4-wheeler","Date1":"18-10-2021","parking_time":"09:30:00","ending_time":"09:58:13","Parking_charge":150},
+    
+    {"name":"Joseph","Parking_type":"2-wheeler","Date1":"18-10-2021","parking_time":"09:30:00","ending_time":"09:58:13","Parking_charge":100},
+    {"name":"Naveen","Parking_type":"4-wheeler","Date1":"19-11-2021","parking_time":"09:30:00","ending_time":"09:58:13","Parking_charge":100},
+    {"name":"Jos","Parking_type":"2-wheeler","Date1":"17-11-2021","parking_time":"03:30:00","ending_time":"07:58:13","Parking_charge":150},
+    {"name":"Jeevan","Parking_type":"4-wheeler","Date1":"17-11-2021","parking_time":"03:30:00","ending_time":"07:58:13","Parking_charge":150},
+    {"name":"Joby","Parking_type":"4-wheeler","Date1":"18-11-2021","parking_time":"04:30:00","ending_time":"09:58:13","Parking_charge":250}]}
